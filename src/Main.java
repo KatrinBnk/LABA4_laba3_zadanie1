@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class Main {
-    private JFrame fNL = new JFrame("Лабораторная работа №2");
+    private JFrame fNL = new JFrame("Лабораторная работа №4");
     private JPanel sP, cP = centrePanel();
     private JButton[] buttons;
     private int interfaceWight = 1100, interfaceHight = 600, buttonKey = 0;
